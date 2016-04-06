@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArduinoControl</string>
+    <string name="title_activity_arduino_control">ArduinoControl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ping">SEND PING</string>
+    <string name="light">LIGHT CONTROLLER</string>
+    <string name="on">ON</string>
+    <string name="names">By, Samhith, Saandeepa, Amith ,Aanand,Anush</string>
+    <string name="sw">SWITCH</string>
+    <string name="title_activity_login_activiry">Login_activiry</string>
+</resources>
